@@ -1,5 +1,5 @@
 # Data-Augmentation-for-Brain-Tumor-Segmentation
-By: Dimitrios Georgopalis, Fatema Lodgher, Maria Lopez
+## By: Dimitrios Georgopalis, Fatema Lodgher, Maria Lopez
 
 This project proposes testing different augmentation techniques to improve tumor segmentation performance.
 
